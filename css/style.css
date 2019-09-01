@@ -28,3 +28,7 @@ h1 {
   color: white;
   font-size: 7.5rem;
 }
+.card {
+  border: none;
+  background-color: transparent;
+}
